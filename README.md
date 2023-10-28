@@ -95,11 +95,7 @@ percobaan memakai javascript:<br>
 </body>
 </html>
 ```
-
-
-
-![video](videos/Proyek%20tanpa%20judul.mp4)
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/c001e87c-bb38-4af0-b660-29851cb8a6bb
 
 > - Pembuatan `Fungsi` dan cara pemanggilannya
 ```
@@ -150,8 +146,7 @@ percobaan memakai javascript:<br>
     </html>
 ```
 
-
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/7d4024fb-f216-4d0e-a011-866292efc1d5
 
 > - Seleksi kondisi `(if..else)`
 ```
@@ -175,9 +170,7 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/f9918a4c-8a33-48ba-86d4-6dda773e2ba2
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/20a67142-4161-443f-a8a7-87bbe5baec3d
 
 > - Penggunaan operator `switch` untuk seleksi kondisi
 ```
@@ -218,10 +211,7 @@ function test ()
 </html>
 ```
 
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/e5991430-6d1f-4663-8584-72b688e0f253
-
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/790cfdbe-ab59-4907-9e97-b8225f5c6776
 
 **3. Pembuatan Form**
 > - Form `Input`
@@ -248,9 +238,7 @@ https://github.com/syifaaurellia/Lab5web/assets/115867244/e5991430-6d1f-4663-858
 </html>
 ```
 
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/94dd2d32-cb81-4de0-a5ab-9aac2632d634
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/35c169fd-c318-4ff0-881f-934b405759e0
 
 > - Form `Button`
 ```
@@ -287,9 +275,7 @@ https://github.com/syifaaurellia/Lab5web/assets/115867244/94dd2d32-cb81-4de0-a5a
 </html>
 ```
 
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/1b7438de-a501-47fe-a513-aa92d3ac862a
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/9b16a4dc-5702-46d9-ac8b-b849004cd531
 
 **4. HTML DOM**
 > - Pilihan menggunakan `checkbox` dengan perhitungan otomatis
@@ -328,10 +314,7 @@ File: daftar_menu.html
 </html>
 ```
 
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/6838d230-b904-4095-a151-ae2af4bd5b81
-
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/ee65760e-eaf1-4530-90fc-0a5214f89e38
 
 ## Pertanyaan dan Tugas
 **1. Buat script untuk melakukan `validasi` pada isian form**
@@ -392,10 +375,6 @@ https://github.com/syifaaurellia/Lab5web/assets/115867244/6838d230-b904-4095-a15
 </body>
 </html>
 ```
-
-
-https://github.com/syifaaurellia/Lab5web/assets/115867244/9c34b9f1-6e00-4b0d-b16b-2d7398947f17
-
-
+https://github.com/AzwaDipani/Lab5Web/assets/115677539/61e67431-cf76-4f25-8e46-0ebb55f21096
 
 ## Selesai, Terima Kasih
